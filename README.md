@@ -52,6 +52,6 @@ With:
 
 ***
 
-## Authors
+## Author
 
 *Alexis Hrysiewicz,* Postdoctoral Researcher, School of Earth Sciences, University College Dublin, iCRAG
