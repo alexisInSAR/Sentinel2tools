@@ -1,6 +1,6 @@
 # Sentinel2tools
 
-***Sentinel2tools*** **repository is a set of Python scripts to manipulate the Sentinel-2 images. ***
+***Sentinel2tools*** **repository is a set of Python scripts to manipulate the Sentinel-2 images.**
 
 ***
 
