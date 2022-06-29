@@ -18,7 +18,7 @@ Small scripts to extract the Sentinel-2 images and save the images in geotiff. S
 ```bash
 pip3 install os optparse sys shutil rasterio fiona numpy scikit-image zipfile 
 ```
-
+or
 ```bash
 conda install os optparse sys shutil rasterio fiona numpy scikit-image zipfile 
 ```
